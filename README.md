@@ -21,8 +21,8 @@ python3 foodAPI.py
 ```
 Enter product barcode: 3017620422003
 
-Found: <product name> (<brand>)
-Calories per 100g: <value> kcal
+Found: Ferrero Hazelnut Chocolate Spread(Nutella)
+Calories per 100g: 539 kcal
 ```
 
 ## Next steps
